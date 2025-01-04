@@ -1,0 +1,19 @@
+{
+  "name": "dorm-ease",
+  "version": "1.0.0",
+  "description": "Dormitory Management System that utilizes AI to enhance the complaint handling process and improve overall resident satisfaction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "mongoose": "^8.9.3"
+  }
+}
